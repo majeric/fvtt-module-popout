@@ -47,7 +47,7 @@
   "readme": "https://github.com/majeric/fvtt-module-popout#readme",
   "url": "https://github.com/majeric/fvtt-module-popout",
   "manifest": "https://raw.githubusercontent.com/majeric/fvtt-module-popout/master/module.json",
-  "download": "https://github.com/majeric/fvtt-module-popout/archive/v2.16.zip",
+  "download": "https://github.com/majeric/fvtt-module-popout/archive/refs/tags/v2.16.zip",
   "bugs": "https://github.com/majeric/fvtt-module-popout/issues",
   "compatibility": {
     "minimum": "10",

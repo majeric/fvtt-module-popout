@@ -44,11 +44,11 @@
       "path": "lang/fr.json"
     }
   ],
-  "readme": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout#readme",
-  "url": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout",
-  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/fvtt-module-popout/master/module.json",
-  "download": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout/archive/v2.16.zip",
-  "bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-popout/issues",
+  "readme": "https://github.com/majeric/fvtt-module-popout#readme",
+  "url": "https://github.com/majeric/fvtt-module-popout",
+  "manifest": "https://raw.githubusercontent.com/majeric/fvtt-module-popout/master/module.json",
+  "download": "https://github.com/majeric/fvtt-module-popout/archive/v2.16.zip",
+  "bugs": "https://github.com/majeric/fvtt-module-popout/issues",
   "compatibility": {
     "minimum": "10",
     "verified": "12.325",
